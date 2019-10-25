@@ -1,6 +1,6 @@
 # VRScript
 
-VRScript is a visual, easy to use and completely revolutionary programming language that aims to minimize the steep learning curve of getting into programming.
+VRScript is a visual, which is easy to use and completely revolutionary programming language that aims to minimize the steep learning curve of getting into programming.
 
 
 # How to get started with the development version ?
@@ -17,3 +17,4 @@ npm install
 `npm start`
 
 3. Goto the web address through Chrome/Firefox
+bye bye bey
